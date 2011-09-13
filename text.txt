@@ -1,0 +1,108 @@
+
+
+
+Report Log for UNICORN Statistics
+Report statistics scheduled as FG-分馆借书量统计
+UNICORN Statistics.
+
+UNICORN transaction selection GL3.0 started on Monday, 2011 May 9, 8:50 AM
+  Transactions containing the following command codes will be selected:
+  EV 
+  Transactions will be selected if they are on or after Wednesday, 2010 
+December 1, 0:00 AM.
+  Transactions will be selected if they are on or before Friday, 2010 December 
+31, 11:59 PM.
+  Transactions from all work workstations will be selected.
+  Transactions will be selected if library is not 北大中心馆.
+  371063 transaction record(s) considered.
+  16797 transaction record(s) selected.
+UNICORN transaction selection finished on Monday, 2011 May 9, 8:50 AM
+UNICORN transaction statistics GL3.0 started on Monday, 2011 May 9, 8:50 AM
+  The report title option will be used.
+  The report heading option will be used.
+  All Item libraries selected
+    The columns are   totals only.    The rows are Item libraries
+    The results will be counts.
+  16797 transactions considered.
+  2 transactions rejected because of missing Item library
+  16795 transactions selected.
+UNICORN transaction statistics finished on Monday, 2011 May 9, 8:50 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                               UNICORN Statistics                               
+                                                                                
+                     Produced Monday, 2011 May 9 at 8:50 AM                     
+                                                                                
+                                                                                
+Report for:                                                                     
+All Item libraries                                                              
+                                                                                
+                                                                                
+Item library                                                                    
+                     TOTAL
+中古史中	12
+中文系	564
+信息技术	29
+北大中心	899
+医北大医	567
+医学图书	8569
+历史学系	560
+哲学系	280
+国关学院	59
+地球空间	234
+外国语学	384
+政府管理	80
+教育学院	372
+数学学院	381
+新闻传播	47
+物理学院	107
+社会学系	1434
+经济学院	259
+考古文博	391
+软件学院	436
+附中图书	599
+TOTAL	16795
